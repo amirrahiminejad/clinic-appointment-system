@@ -18,7 +18,7 @@ changelog:
 توهم AI و ساختن قابلیت‌هایی که PM نگفته است. مهار: ستون «منبع» با نقل‌قول دقیق اجباری است.
 
 ## متن پرامپت
-```text
+
 نقش: تو یک تحلیل‌گر ارشد نیازمندی‌ها هستی و فقط روی
 نیازمندی‌های کارکردی (Functional Requirements) تمرکز داری.
 
@@ -50,10 +50,3 @@ PM ممکن است خواسته‌ها را ناقص، ضدونقیض یا در 
 [متن مصاحبه اینجا]
 »»»
 
-## مسیر خروجی
-خروجی خام: `docs/requirements/extracted/runs/YYYY-MM-DD-P01-run.md`
-پس از نقد و تأیید معمار: ادغام در `docs/requirements/extracted/fr-registry.md`
-بخش «سؤالات از PM»: انتقال به `docs/requirements/open-questions.md`
-`
-
----
