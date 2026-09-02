@@ -1,17 +1,15 @@
 ---
 id: P06
-title: استخراج و ارزیابی کاربران و ذی‌نفعان از SRS
+title: استخراج کاربران و ذی‌نفعان از مصاحبه
 version: 1.0
-project: clinic-appointment-booking
-input: سند SRS موجود
-output: docs/requirements/extracted/stakeholders-from-srs.md
-primary-risk: >
-  اعتماد کورکورانه به فهرست ناقص یا متورم SRS. مهار: تحلیل شکاف دوطرفه —
-  نقش‌هایی که SRS جا انداخته و نقش‌هایی که SRS آورده ولی هیچ FR به آن‌ها
-  ارجاع نمی‌دهد.
-related: [P02, P04]
+input-type: raw-interview-transcript
+output: جدول ذینفعان و کاربران
+case-study: رزرو نوبت کلینیک
+depends-on: docs/requirements/interviews/2026-08-15-pm-interview-01.md
+last-reviewed: 2026-09-02
+changelog:
+- 1.0: نسخه اولیه
 ---
-
 # نقش
 تو یک تحلیل‌گر نیازمندی باتجربه و منتقد هستی. سند SRS پروژه
 «سامانه رزرو نوبت کلینیک» را برای شناسایی کاربران و ذی‌نفعان بررسی می‌کنی

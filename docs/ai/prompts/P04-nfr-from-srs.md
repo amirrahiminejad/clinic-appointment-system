@@ -4,12 +4,11 @@ title: استخراج و ارزیابی نقادانه NFR از سند SRS
 version: 1.0
 input-type: srs-document
 output: جدول NFR با وضعیت آزمون‌پذیری + بازنویسی‌های [پیشنهاد] + تعارض‌های NFR + NFRهای جاافتاده
-target-model: هر LLM با پنجره متن بلند
 case-study: رزرو نوبت کلینیک
-depends-on: docs/requirements/srs.md
+depends-on: docs/requirements/srs/srs.md
 last-reviewed: 2026-08-19
 changelog:
-  - 1.0: نسخه اولیه (جلسه ۴ دوره)
+  - 1.0: نسخه اولیه 
 ---
 
 # P04 — استخراج و ارزیابی NFR از سند SRS
