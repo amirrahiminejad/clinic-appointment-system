@@ -6,3 +6,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/clinic-appointment-system.iml
+/misc.xml
+/modules.xml
+/vcs.xml
