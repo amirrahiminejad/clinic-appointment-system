@@ -191,29 +191,6 @@ FR-017، BR-004، EX-003 و UC-001 همگی همین invariant را بیان م�
 
 ---
 
-# ۵) ارجاع به تحلیل NFR
-
-طبق قید شما، محتوای NFR را تحلیل نکرده‌ام و فقط شماره سکشن‌ها را فهرست می‌کنم:
-
-* **§7 — محدودیت‌ها**: بخشی از موارد ماهیت NFR/Architecture Constraint دارند.
-* **§25 — Performance**
-* **§26 — Availability**
-* **§27 — Reliability**
-* **§28 — Security**
-* **§29 — Privacy**
-* **§30 — Usability**
-* **§31 — Scalability**
-* **§32 — Maintainability**
-* **§33 — Compatibility**
-* **§34 — Accessibility**
-* **§35 — External Interface Requirements**: عمدتاً Interface/Architecture requirement است، نه FR خالص.
-* **§37 — Data Integrity Requirements**: برخی موارد مستقیماً رفتار کارکردی را constrain می‌کنند.
-* **§46 — Observability**
-* **§47 — Audit Requirements**
-* **§50 — Quality Attribute Scenarios**
-* **§51 — Constraints Summary**
-
-برای نمونه، خود سند در §25 تا §34 NFRها را صریحاً نام‌گذاری کرده و در §35 APIها و اتصال SMS Provider را مشخص می‌کند. ([GitHub][1])
 
 ## جمع‌بندی معماری
 
