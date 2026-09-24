@@ -34,8 +34,8 @@
   
 ## نقشه و پیوندهای مستندات تکمیلی (Docs Index)  
   
-- [تصمیم معماری استایل پایه (ADR-0001)](docs/architecture/decisions/0001-modular-monolith-architecture.md): دلایل انتخاب Modular Monolith به جای Microservices در فاز نخست.  
+- [تصمیم معماری استایل پایه (ADR-0001)](ADR0001-modular-monolith-architecture.md): دلایل انتخاب Modular Monolith به جای Microservices در فاز نخست.  
 - [تصمیم مدیریت همزمانی رزرو (ADR-0002)](docs/architecture/decisions/0002-booking-concurrency-lock.md): جزئیات پیاده‌سازی Redis Temporary Hold و مقایسه Trade-offها.  
 - [دیاگرام کانتکست سیستم (C4 Level 1)](docs/architecture/c4/01-context.md): تعاملات بازیگران خارجی (بیمار، پزشک، درگاه پرداخت و پنل پیامک).  
-- [دیاگرام کانتینر سیستم (C4 Level 2)](docs/architecture/c4/02-container.md): ساختار مرزهای اجرایی، دیتابیس اصلی و لایه Redis.  
+- [دیاگرام کانتینر سیستم (C4 Level 2)](02-container.md): ساختار مرزهای اجرایی، دیتابیس اصلی و لایه Redis.  
 - [قراردادهای API نوبت‌دهی (OpenAPI)](docs/api/openapi.yaml): ساختار ورودی و خروجی اندپوینت‌های رزرو، لغو و تقویم پزشکان.
