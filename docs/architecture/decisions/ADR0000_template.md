@@ -14,6 +14,6 @@
 ## ۳. تصمیم نهایی (Decision Outcome)
 [گزینه انتخاب‌شده به همراه دلیل شفاف]
 
-## ۴. پپیامدها  (Consequences & Trade-offs)
+## ۴. پیامدها  (Consequences & Trade-offs)
 * **مزایا (Pros):** ...
 * **ریسک‌ها و هزینه‌ها (Cons):** ...
