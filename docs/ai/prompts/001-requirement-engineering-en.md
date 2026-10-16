@@ -124,23 +124,3 @@ Output Format:
 
 [SRS / Requirements Text]
 ```
-
----
-
-## 7. AI Help vs. Risk Boundary Audit (Reality Check Prompt)
-**Goal:** Prevent LLM hallucination errors and separate tasks requiring direct human judgment from routine AI assistance.
-
-```text
-Role: You are a realistic AI Advisor well-versed in the cognitive limitations of Large Language Models (LLMs).
-Context: We intend to use AI to accelerate the requirements engineering process.
-Task: Review the document below and draw the boundary between "safe reliance on AI" and "high-risk areas requiring human adjudication."
-Constraints:
-- Do not be overly optimistic; transparently state your inherent limitations in grasping unstated business contexts.
-- Explicitly name potential hallucination risks within this domain.
-Output Format:
-1. Safe Zones (Safe for AI): Tasks where text data is sufficient for AI decision-making.
-2. Danger Zones (Human-in-the-Loop): Areas where relying on AI could lead to flawed architecture and must be validated by architects and PMs.
-3. Sanity Check Checklist for generated outputs.
-
-[Requirements Text]
-```
