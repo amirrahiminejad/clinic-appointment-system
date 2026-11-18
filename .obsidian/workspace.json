@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad29313dde65fcd6",
+        "id": "b37068ac36c99cd2",
         "type": "tabs",
         "children": [
           {
-            "id": "73db20017d56d49a",
+            "id": "3a6da05f3c57cb74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/requirements/stakeholders-and-actors.md",
+                "file": "docs/architecture/adr/ADR-001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stakeholders-and-actors"
+              "title": "ADR-001"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/requirements/stakeholders-and-actors.md",
+                "file": "docs/architecture/adr/ADR-001.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,10 +188,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "73db20017d56d49a",
+  "active": "3a6da05f3c57cb74",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "Untitled 2",
+    "Untitled.base",
     "docs/requirements/stakeholders-and-actors.md",
+    "2026-11-05.md",
+    "Untitled.md",
+    "Untitled 1",
+    "Untitled",
+    "README.md",
     "docs/requirements/prd.md",
     "docs/requirements/prd.md~"
   ]
